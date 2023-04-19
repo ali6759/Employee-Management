@@ -1,0 +1,113 @@
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\bin\Debug\WpfEmployeeManagement.exe
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\bin\Debug\WpfEmployeeManagement.pdb
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\MainWindow.g.cs
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\App.g.cs
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement_MarkupCompile.cache
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement_MarkupCompile.lref
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\MainWindow.baml
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.g.resources
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.Properties.Resources.resources
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.GenerateResource.cache
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.exe
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.pdb
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DataAccess.dll
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DataAccess.pdb
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.CopyComplete
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\AddEditEmployee.g.cs
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\AddEditEmployee.baml
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\SearchEmployee.g.cs
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\obj\Debug\SearchEmployee.baml
+C:\Users\areza\source\repos\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DemoDBEmployees.csv
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DemoDBEmployees.csv
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\WpfEmployeeManagement.exe
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\WpfEmployeeManagement.pdb
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DataAccess.dll
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DataAccess.pdb
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\AddEditEmployee.g.cs
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\MainWindow.g.cs
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\SearchEmployee.g.cs
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\App.g.cs
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement_MarkupCompile.cache
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement_MarkupCompile.lref
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\AddEditEmployee.baml
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\MainWindow.baml
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\SearchEmployee.baml
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.g.resources
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.Properties.Resources.resources
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.GenerateResource.cache
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.CopyComplete
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.exe
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.pdb
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.AssemblyReference.cache
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.SuggestedBindingRedirects.cache
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\Newtonsoft.Json.dll
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\System.Net.Http.Formatting.dll
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\Newtonsoft.Json.xml
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\System.Net.Http.Formatting.xml
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DemoDBUser.csv
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\Login.g.cs
+D:\Freelance\EmployeeManagement\EmployeeManagement\WpfEmployeeManagement\obj\Debug\Login.baml
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DemoDBEmployees.csv
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DemoDBUser.csv
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\WpfEmployeeManagement.exe
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\WpfEmployeeManagement.pdb
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DataAccess.dll
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\Newtonsoft.Json.dll
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\System.Net.Http.Formatting.dll
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DataAccess.pdb
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\Newtonsoft.Json.xml
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\bin\Debug\System.Net.Http.Formatting.xml
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.AssemblyReference.cache
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.SuggestedBindingRedirects.cache
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\AddEditEmployee.g.cs
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\MainWindow.g.cs
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\Login.g.cs
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\SearchEmployee.g.cs
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\App.g.cs
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement_MarkupCompile.cache
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement_MarkupCompile.lref
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\AddEditEmployee.baml
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\MainWindow.baml
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\Login.baml
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\SearchEmployee.baml
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.g.resources
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.Properties.Resources.resources
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.GenerateResource.cache
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.CopyComplete
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.exe
+D:\Application Development\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.pdb
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DemoDBEmployees.csv
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DemoDBUser.csv
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\WpfEmployeeManagement.exe
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\WpfEmployeeManagement.pdb
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DataAccess.dll
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\Newtonsoft.Json.dll
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\System.Net.Http.Formatting.dll
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\DataAccess.pdb
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\Newtonsoft.Json.xml
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\bin\Debug\System.Net.Http.Formatting.xml
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.AssemblyReference.cache
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.SuggestedBindingRedirects.cache
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\AddEditEmployee.g.cs
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\MainWindow.g.cs
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\Login.g.cs
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\SearchEmployee.g.cs
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\App.g.cs
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement_MarkupCompile.cache
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement_MarkupCompile.lref
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\AddEditEmployee.baml
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\MainWindow.baml
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\Login.baml
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\SearchEmployee.baml
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.g.resources
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.Properties.Resources.resources
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.GenerateResource.cache
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.csproj.CopyComplete
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.exe
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\WpfEmployeeManagement\obj\Debug\WpfEmployeeManagement.pdb

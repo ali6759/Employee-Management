@@ -1,0 +1,31 @@
+C:\Users\areza\source\repos\EmployeeManagement\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\areza\source\repos\EmployeeManagement\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\areza\source\repos\EmployeeManagement\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\areza\source\repos\EmployeeManagement\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\areza\source\repos\EmployeeManagement\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\areza\source\repos\EmployeeManagement\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\areza\source\repos\EmployeeManagement\DataAccess\bin\Debug\DemoDBEmployees.csv
+D:\Freelance\EmployeeManagement\EmployeeManagement\DataAccess\bin\Debug\DemoDBEmployees.csv
+D:\Freelance\EmployeeManagement\EmployeeManagement\DataAccess\bin\Debug\DataAccess.dll
+D:\Freelance\EmployeeManagement\EmployeeManagement\DataAccess\bin\Debug\DataAccess.pdb
+D:\Freelance\EmployeeManagement\EmployeeManagement\DataAccess\obj\Debug\DataAccess.dll
+D:\Freelance\EmployeeManagement\EmployeeManagement\DataAccess\obj\Debug\DataAccess.pdb
+D:\Freelance\EmployeeManagement\EmployeeManagement\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Freelance\EmployeeManagement\EmployeeManagement\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Freelance\EmployeeManagement\EmployeeManagement\DataAccess\bin\Debug\DemoDBUser.csv
+D:\Application Development\EmployeeManagement\DataAccess\bin\Debug\DemoDBEmployees.csv
+D:\Application Development\EmployeeManagement\DataAccess\bin\Debug\DemoDBUser.csv
+D:\Application Development\EmployeeManagement\DataAccess\bin\Debug\DataAccess.dll
+D:\Application Development\EmployeeManagement\DataAccess\bin\Debug\DataAccess.pdb
+D:\Application Development\EmployeeManagement\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Application Development\EmployeeManagement\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Application Development\EmployeeManagement\DataAccess\obj\Debug\DataAccess.dll
+D:\Application Development\EmployeeManagement\DataAccess\obj\Debug\DataAccess.pdb
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\DataAccess\bin\Debug\DemoDBEmployees.csv
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\DataAccess\bin\Debug\DemoDBUser.csv
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\DataAccess\bin\Debug\DataAccess.dll
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\DataAccess\bin\Debug\DataAccess.pdb
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\DataAccess\obj\Debug\DataAccess.dll
+D:\Softwar Developer\BLOCK 4\APPLICATION DEVELOPMENT\Final Project Wpf\EmployeeManagement\DataAccess\obj\Debug\DataAccess.pdb

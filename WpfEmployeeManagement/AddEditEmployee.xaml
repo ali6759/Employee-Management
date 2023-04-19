@@ -1,0 +1,48 @@
+﻿<Window x:Class="WpfEmployeeManagement.AddEditEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfEmployeeManagement"
+        mc:Ignorable="d"
+        Title="AddEditEmployee" FontSize="24" Height="700" Width="800">
+    <Grid>
+        <StackPanel Margin="20">
+            <DockPanel Margin="10">
+                <Label Margin="10">First Name:</Label>
+                <TextBox HorizontalAlignment="Right" Width="500" Name="tbFirstName"/>
+            </DockPanel>
+            <DockPanel Margin="10">
+                <Label Margin="10">Last Name:</Label>
+                <TextBox HorizontalAlignment="Right" Width="500" Name = "tbLastName"/>
+            </DockPanel>
+            <DockPanel Margin="10">
+                <Label Margin="10">Phone Number:</Label>
+                <TextBox HorizontalAlignment="Right" Width="500" Name="tbPhoneNumber" TextChanged="tbPhoneNumber_TextChanged"/>
+            </DockPanel>
+            <DockPanel Margin="10">
+                <Label Margin="10">Address:</Label>
+                <TextBox HorizontalAlignment="Right" Width="500" Name="tbAddress"/>
+            </DockPanel>
+            <DockPanel Margin="10">
+                <Label Margin="10">Department:</Label>
+                <ComboBox HorizontalAlignment="Right" Width="500" Name="comboDepartment">
+                    <ComboBoxItem>Production</ComboBoxItem>
+                    <ComboBoxItem>Sales</ComboBoxItem>
+                    <ComboBoxItem>Advertisement</ComboBoxItem>
+                    <ComboBoxItem>Management</ComboBoxItem>
+                </ComboBox>
+            </DockPanel>
+            <DockPanel Margin="10">
+                <Label Margin="10">Base Salary:</Label>
+                <TextBox HorizontalAlignment="Right" Width="500" Name="tbSalary"/>
+            </DockPanel>
+            <Label Name="lblErroe" HorizontalAlignment="Right" Foreground="Red" FontSize="18" Margin="2" />
+            <DockPanel Margin="10" HorizontalAlignment="Right">
+                <Button Margin="10" Height="50" Width="120" Name="btnCancle" Click="btnCancle_Click">Cancle</Button>
+                <Button Margin="10" Height="50" Width="120" Name="btnOk" Click="btnOk_Click">Ok</Button>
+            </DockPanel>
+        </StackPanel>
+        
+    </Grid>
+</Window>

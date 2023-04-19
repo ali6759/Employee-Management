@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfEmployeeManagement.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfEmployeeManagement"
+        mc:Ignorable="d"
+        Title="Login" Height="400" Width="800">
+    <Grid>
+        <StackPanel Margin="2,2,2,10" Background="Beige">
+            <DockPanel Margin ="10">
+                <Label Margin="20" FontSize="20">UserName</Label>
+                <TextBox TextWrapping="Wrap" x:Name="txtUser" FontSize="20" Text="" Width="479"/>
+            </DockPanel>
+
+            <DockPanel Margin ="10">
+                <Label Margin="20" FontSize="20" Width="102">Password</Label>
+                <TextBox TextWrapping="Wrap" x:Name="txtPass" FontSize="20" Text="" Width="479"/>
+            </DockPanel>
+
+            <DockPanel Width="232">
+                <Button Content="Login" FontSize="20" Name="btnSearch" Height="64" Width="140" Click="btnSearch_Click"/>
+            </DockPanel>
+            <Label Margin="20"  FontSize="20" Content="" Name="lblUser" Height="87" Foreground="Red" Width="642" />
+
+        </StackPanel>
+    </Grid>
+</Window>
